@@ -7,7 +7,7 @@ confinement and are not allowed to talk to anyone. They discover that their cell
 are next to each other so they communicate via knocking, each number of knocks in 
 a given interval representing an alphabet. In this way, you can form any message.
 
-Constraints: other forms of punctuation than periods and lack of capitalization
+Constraints: other forms of punctuation than periods and capitalization
 """
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 
             'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
